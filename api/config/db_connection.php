@@ -11,7 +11,7 @@ Developer : Jhonier
 
 $host      = "localhost"; //127.0.0.1
 $username  = "postgres";
-$password  = "1234"; //unicesmag
+$password  = "unicesmag"; //unicesmag
 $dbname    = "beta";
 $port      = "5432";
 
