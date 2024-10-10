@@ -11,7 +11,7 @@ Developer : Jhonier
 
 $host      = "localhost"; //127.0.0.1
 $username  = "postgres";
-$password  = "unicesmag"; //unicesmag
+$password  = "1234"; //unicesmag
 $dbname    = "beta";
 $port      = "5432";
 
@@ -31,6 +31,6 @@ if (!$conn){
     echo "Connected successfully";
 }
 
-pg_close($conn);
+/* pg_close($conn); */
 
 ?> 
